@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046253660303",
+    "project_id": "musica-d7270",
+    "storage_bucket": "musica-d7270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046253660303:android:3e56229a8945772cd628fa",
+        "android_client_info": {
+          "package_name": "com.musica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0ZkknICov5eXbaFfbTDZzzy6W9vp2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
